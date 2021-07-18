@@ -6,8 +6,6 @@
 
 <h3 align="center">🏹Status</h3>
 
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffkwsur&count_bg=%23FFC6F7&title_bg=%239D6A57&icon=&icon_color=%23E7E7E7&title=HJ's_Git&edge_flat=true)](https://github.com/fkwsur)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fkwsur&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fkwsur&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -35,4 +33,9 @@
    <a href="https://daily-coding-diary.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
     <a href="mailto:guswl543210@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=guswl543210@gmail.com"/></a>
 </p>
+
+
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffkwsur&count_bg=%23FFC6F7&title_bg=%239D6A57&icon=&icon_color=%23E7E7E7&title=HJ's_Git&edge_flat=true)](https://github.com/fkwsur)
+ 추천:
+ 
  
