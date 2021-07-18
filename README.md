@@ -32,10 +32,13 @@
 <p align="center">
    <a href="https://daily-coding-diary.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
     <a href="mailto:guswl543210@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=guswl543210@gmail.com"/></a>
+   <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a> 
+ 
 </p>
 
 
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffkwsur&count_bg=%23FFC6F7&title_bg=%239D6A57&icon=&icon_color=%23E7E7E7&title=HJ's_Git&edge_flat=true)](https://github.com/fkwsur)
 <h3>추천:</h3>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsjy-dv&count_bg=%233D71C8&title_bg=%23555555&icon=tencentqq.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
  
  
