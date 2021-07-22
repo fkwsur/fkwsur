@@ -41,5 +41,3 @@
 <h3>추천:</h3>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsjy-dv&count_bg=%233D71C8&title_bg=%23555555&icon=tencentqq.svg&icon_color=%23E7E7E7&title=JW's_Git&edge_flat=true)](https://github.com/sjy-dv)
-
-<a href="https://bgmstore.net/view/dCIna" target="_blank">https://bgmstore.net/view/5bb0d0c0352039d227079493/Ludovico%20Einaudi-%20Nuvole%20Bianche%20(%ED%94%BC%EC%95%84%EB%85%B8%20%EC%B6%94%EC%96%B5%20%EA%B0%90%EB%8F%99%20%EB%94%B0%EB%9C%BB%20%EC%9E%94%EC%9E%94%20%EC%97%AC%EC%9C%A0)</a>
