@@ -1,3 +1,9 @@
+
+![](./profile-3d-contrib/profile-gitblock.svg)
+
+
+
+###
 <h4 align="left">Languages :</h4>
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -47,7 +53,4 @@
 <p align="left"> 
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
 </p>
-
-
-
-![](./profile-3d-contrib/profile-gitblock.svg)
+###
