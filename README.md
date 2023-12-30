@@ -1,4 +1,4 @@
- <img src="[https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FnRHIC%2FbtsCLqu27Pq%2Foq2d2YkdGCjwnMqLRnSTg1%2Fimg.jpg)"/>
+ <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FnRHIC%2FbtsCLqu27Pq%2Foq2d2YkdGCjwnMqLRnSTg1%2Fimg.jpg"/>
 <br />
 
 <h3 align="center">⚔Skills</h3>
