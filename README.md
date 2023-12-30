@@ -13,12 +13,3 @@
  <a href="#"><img src="https://img.shields.io/badge/Kubernetes-2496ED?style=flat&logo=Kubernetes&logoColor=white"/></a>&nbsp 
  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a> 
 </p>
-
-<br />
-
-<h3 align="center">🗡Contact Me</h3>
-<p align="center">
-    <a href="mailto:guswl543210@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=guswl543210@gmail.com"/></a>
-
- 
-</p>
