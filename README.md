@@ -1,4 +1,4 @@
-<h3><img src="https://www.iwakuroleplay.com/proxy.php?image=http%3A%2F%2Fvignette2.wikia.nocookie.net%2Fdigimon%2Fimages%2Fb%2Fb9%2FLopmon_vg.gif%2Frevision%2Flatest%3Fcb%3D20100622011658&hash=06ff6453f3267c461cebaee035a125bd" alt="digimon" width="100" />SKILLS</h3>
+<h3><img src="https://blog.kakaocdn.net/dn/bdnCYc/btsCSzYmFy8/YKiKfLb2Lw9fIS9gQV2qyk/img.gif" alt="digimon" width="100" />SKILLS</h3>
 
 
 |title|tags|
