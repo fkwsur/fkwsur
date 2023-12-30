@@ -1,4 +1,3 @@
-![](./profile-3d-contrib/profile-green-animate.svg)
 <h3 align="center">⚔Skills</h3>
 <p align="center">
  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>&nbsp
@@ -14,3 +13,6 @@
  <a href="#"><img src="https://img.shields.io/badge/Kubernetes-2496ED?style=flat&logo=Kubernetes&logoColor=white"/></a>&nbsp 
  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a> 
 </p>
+<br />
+<br />
+![](./profile-3d-contrib/profile-green-animate.svg)
